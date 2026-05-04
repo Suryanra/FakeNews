@@ -1,0 +1,16 @@
+# Python / Backend
+backend/venv/
+backend/chroma_db/
+**/__pycache__/
+*.pyc
+.env
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+.DS_Store
+
+# OS generated files
+Thumbs.db

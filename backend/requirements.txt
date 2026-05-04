@@ -1,0 +1,13 @@
+# Core backend — install: pip install -r requirements.txt
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+pandas
+langchain-community
+langchain-text-splitters
+langchain-google-genai
+langchain-core
+langchain-classic
+chromadb
+sentence-transformers

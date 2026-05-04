@@ -16,3 +16,7 @@ class AddNewsRequest(BaseModel):
     text: str
     title: str = "User Added Fact"
     subject: str = "User Submitted"
+
+class LoginRequest(BaseModel):
+    username: str
+    password: str
